@@ -1,7 +1,4 @@
 # Mark Mileyev
-# mmileyev@ucsc.edu
-# Lab 4 due Feb 16
-# Section 01C Maxwell
 
 .data
 	prompt: .asciiz "Please enter a number N: "
